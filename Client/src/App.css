@@ -1,0 +1,24 @@
+:root{
+  --primary-color: #2d2d2d;
+  --secondary-color: #e4e0db;
+}
+
+@font-face {
+  font-family: 'switzer';
+  src: url('./assets/fonts/Switzer-Variable.ttf');
+}
+
+body{
+  font-family: 'switzer';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--primary-color);
+}
+
+h1{
+  color: var(--secondary-color);
+  font-size: 2.5rem;
+  margin: 0;
+  padding: 0;
+}

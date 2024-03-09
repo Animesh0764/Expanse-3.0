@@ -1,10 +1,12 @@
 import './App.css'
+import CarouselItem from './components/Carousel.jsx'
+import Graphs from './components/Graphs.jsx'
 
 function App() {
-
   return (
     <div>
-      <h1>Hello world!</h1>
+      <CarouselItem />
+      <Graphs />
     </div>
   )
 }

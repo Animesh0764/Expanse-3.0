@@ -1,7 +1,7 @@
 :root{
-    --primary-color: #2d2d2d;
-    --secondary-color: #e4e0db;
-    --hover-colour: #2b2626;
+    --secondary-color: #1f41bb;
+    --primary-color: #e4e0db;
+    --hover-colour: #1f41bb;
     --hover-bg: #e4e0db;
 }
 
@@ -30,7 +30,7 @@
 
 .hyperlinks{
     text-decoration: none;
-    color: var(--secondary-color);
+    color: var(--hover-bg);
 }
 
 .navbar ul li:hover{
@@ -41,4 +41,11 @@
 
 .hyperlinks:hover{
     color: var(--hover-color);
+}
+
+.navbar img{
+    width: 3rem;
+    height: 3rem;
+    margin: 0 1rem;
+    z-index: -1;
 }

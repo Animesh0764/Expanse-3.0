@@ -1,0 +1,28 @@
+{
+    "meetings": [
+        {
+            "id": 1,
+            "title": "Meeting 1",
+            "date": "2017-01-01",
+            "time": "10:00",
+            "location": "Room 1",
+            "description": "This is the first meeting"
+        },
+        {
+            "id": 2,
+            "title": "Meeting 2",
+            "date": "2017-01-02",
+            "time": "11:00",
+            "location": "Room 2",
+            "description": "This is the second meeting"
+        },
+        {
+            "id": 3,
+            "title": "Meeting 3",
+            "date": "2017-01-03",
+            "time": "12:00",
+            "location": "Room 3",
+            "description": "This is the third meeting"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "name": "Project 1",
+            "description": "This is a project",
+            "budget": "300000",
+            "tasks": [
+                {
+                    "name": "Task 1",
+                    "description": "This is a task"
+                },
+                {
+                    "name": "Task 2",
+                    "description": "This is a task"
+                }
+            ]
+        },
+        {
+            "name": "Project 2",
+            "description": "This is a project",
+            "budget": "150000",
+            "tasks": [
+                {
+                    "name": "Task 1",
+                    "description": "This is a task"
+                },
+                {
+                    "name": "Task 2",
+                    "description": "This is a task"
+                }
+            ]
+        }
+    ]
+}
